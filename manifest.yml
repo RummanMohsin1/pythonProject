@@ -1,5 +1,5 @@
 ---
 applications:
- - name: projecticc
+ - name: pythonProject
    random-route: true
    memory: 128M
