@@ -2,4 +2,4 @@
 applications:
  - name: pythonProject
    random-route: true
-   memory: 128M
+   memory: 32M
